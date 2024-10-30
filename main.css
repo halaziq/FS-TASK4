@@ -1,0 +1,27 @@
+.our-Services{
+    text-align: center;
+}
+
+.service{
+    text-align: center;
+    width: 30%;
+    float: left;
+}
+
+.par{
+    color: grey;
+}
+
+.fa{
+    color: white;
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+
+
